@@ -39,6 +39,7 @@ Features
 If this feature list left you scratching your head, you can first read
 more about the [Vector Space Model] and [unsupervised document analysis]
 on Wikipedia.
+-   Python libraries like numpy,pandas and matplotlib are very basic which are mostly used in the field of Machine Learning
 
 Support
 ------------
